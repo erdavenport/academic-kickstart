@@ -5,36 +5,33 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Host-microbiome interactions",
+    "Human Genetics",
+    "Evolution"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Human Genetics (PhD)"
+  institution = "University of Chicago"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Bacteriology (BS)"
+  institution = "University of Wisconsin - Madison"
+  year = 2007
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
-# Biography
+Hello, world.  
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a postdoctoral scholar in the [Department of Molecular Biology and Genetics](https://mbg.cornell.edu/) at [Cornell University](https://www.cornell.edu/) and a visiting postdoc at [The Max Planck Institute for Developmental Biology](https://www.eb.tuebingen.mpg.de/). 
+I'm working with [Andy Clark](http://blogs.cornell.edu/clarklabblog/) and [Ruth Ley](http://leylab.tue.mpg.de/) examining human host-microbiome interactions. 
+I earned my Ph.D. in September 2014 from the [Department of Human Genetics](http://genes.uchicago.edu/) at the [University of Chicago](http://www.uchicago.edu/), where I worked with [Yoav Gilad](http://giladlab.uchicago.edu/). 
+Scroll on to see more about my [research](#projects), [publications](#publications), [teaching](#teaching), and how to [contact me](#contact). 

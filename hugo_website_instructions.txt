@@ -1,0 +1,20 @@
+# Hugo website:
+
+# Documentation for academic theme:
+https://sourcethemes.com/academic/docs/
+
+# Example site from postdoc:
+https://jananiravi.github.io/
+https://github.com/jananiravi/jananiravi.github.io
+
+# Hugo github:
+https://github.com/gohugoio/hugo
+
+# Blog on using hugo to make websites:
+https://georgecushen.com/create-your-website-with-hugo/
+
+# To run locally, type following and then point the browser to the localhost number provided:
+hugo server
+
+# To add a publication:
+hugo new publication/my-paper-name.md
