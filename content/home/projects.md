@@ -61,7 +61,7 @@ This experience introduced me to genomic techniques and I became proficient in t
 As a graduate student, I combined both my interests in microbial ecology and genomics by studying the human microbiome with [Yoav Gilad](www.giladlab.uchicago.edu) at the [University of Chicago](www.uchicago.edu). 
 Specifically, I’ve led projects examining the role of [environmental](project/3_host_diet_environment/) and [genetic](project/2_host_genetics/) factors on determining gut microbiome composition.
 
-As a postdoc with [Andy Clark](http://blogs.cornell.edu/clarklabblog/), I’ve continued to examine the role the [host genome](project/2_host_genetics/) plays in determining gut microbiome composition. 
+As a postdoc with [Andy Clark](http://blogs.cornell.edu/clarklabblog/) and [Ruth Ley](http://leylab.tue.mpg.de/), I’ve continued to examine the role the [host genome](project/2_host_genetics/) plays in determining gut microbiome composition. 
 In addition, I’m leading projects examining [microbe-microbe interactions in health and disease](project/1_current/#networks) and [characterizing the microbiomes of non-US/European populations](project/1_current/#nepal).
 
 I’m now a jane-of-all-trades: doing all of my own experimental work and computational analyses. 
