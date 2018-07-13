@@ -59,7 +59,7 @@ photo: [Kelly Hofer](http://www.hutterites.org/galleries/work-and-agriculture/)
 <img style="margin: 10px; float: left" src="/img/PVE.png" width="300" height="400">
 
 While many environmental factors are known to contribute to gut microbiome composition, the extent to which host genetic variation plays a role is unclear. 
-Using the same population as the [seasonal study](/project/host_diet_environment/) (the Hutterites), where inter-individual variation in diet is limited, I examined the role of sex and age as well as host genetics in determining the relative abundances of the most common bacteria in the gut. 
+Using the same population as the [seasonal study](/project/2_host_diet_environment/) (the Hutterites), where inter-individual variation in diet is limited, I examined the role of sex and age as well as host genetics in determining the relative abundances of the most common bacteria in the gut. 
 To do so, I implemented [methods](http://www.xzlab.org/software.html) that specifically account for the relatedness across individuals and examined genetic variation genome-wide. 
 While this is an important first step at examining host genetics, I really can't state enough the limitations of the sample size in this study and the number of tests performed. 
 That being said, I do find bacteria that show evidence of heritability in my samples and have genome-wide (but not study-wide) significant associations with SNPs in the genome.
@@ -73,7 +73,7 @@ To read more, check out:
 
 Also check out our GWAS of the nasal microbiome in the Hutterites, led by Dr. Catherine Igartua:
 
-- [**Host genetic variation in the mucosal immunity pathways influences the upper airway microbiome**](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0227-5)
+- [**Host genetic variation in the mucosal immunity pathways influences the upper airway microbiome**](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0227-5) Igartua C, <u>Davenport ER</u>, Gilad Y, Nicolae DL, Pinto J\\*, and Ober C\\*. Microbiome. 2017;5(16)
 
 
 &nbsp;

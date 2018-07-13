@@ -34,4 +34,4 @@ Hello, world.
 I am a postdoctoral scholar in the [Department of Molecular Biology and Genetics](https://mbg.cornell.edu/) at [Cornell University](https://www.cornell.edu/) and a visiting postdoc at [The Max Planck Institute for Developmental Biology](https://www.eb.tuebingen.mpg.de/). 
 I'm working with [Andy Clark](http://blogs.cornell.edu/clarklabblog/) and [Ruth Ley](http://leylab.tue.mpg.de/) examining human host-microbiome interactions. 
 I earned my Ph.D. in September 2014 from the [Department of Human Genetics](http://genes.uchicago.edu/) at the [University of Chicago](http://www.uchicago.edu/), where I worked with [Yoav Gilad](http://giladlab.uchicago.edu/). 
-Scroll on to see more about my [research](#projects), [publications](#publications), [teaching](#teaching), and how to [contact me](#contact). 
+Scroll on to see more about my [research](#projects), [publications](#publications), [teaching](#teaching), [service](#service) and how to [contact me](#contact). 
