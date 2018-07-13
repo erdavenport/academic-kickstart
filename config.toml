@@ -222,7 +222,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "ed379@cornell.edu"
+    link = "mailto:ed379@cornell.edu"
 
   [[params.social]]
     icon = "twitter"
