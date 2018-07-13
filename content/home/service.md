@@ -16,7 +16,7 @@ weight = 70
 +++
 For a full list of my service activities, see my [CV](img/ERD_CV.pdf).
 
-# ASHG Training and Development Committee
+## ASHG Training and Development Committee
 
 <img style="margin: 10px; float: left" src="/img/ashg_logo.png" width="150">
 
@@ -34,7 +34,7 @@ For [ASHG 2018](http://www.ashg.org/2018meeting/) in San Diego, I'm leading effo
 
 In addition to events for the annual meetings, my year-round activities include leading the [Trainee Paper Spotlight working group of the TDC](https://www.ashg.org/education/Trainee_PaperSpotlight.shtml) and co-leading the [Twitter #ASHGtrainee working group](https://twitter.com/search?q=%23ASHGtrainee&src=typd).
 
-# Cornell Consensual Relationships Policy Committee
+## Cornell Consensual Relationships Policy Committee
 
 <img style="margin: 10px; float: left" src="/img/cornell.gif" width="150">
 
@@ -43,7 +43,7 @@ This committee consisted of selected representatives of groups on campus (underg
 After researching similar policies at other institutions and dialog with groups on campus, we submitted a [full policy proposal](http://theuniversityfaculty.cornell.edu/news/consensual-relationships-policy-committee/a-proposed-consensual-relationships-policy/) on May 1, 2018 to the University President. 
 Martha Pollock [endorsed our proposed policy](http://news.cornell.edu/stories/2018/05/president-endorses-consensual-relationship-policy), which is expected to roll out in the fall. 
 
-# MBG Postdoc Invited Seminar Series
+## MBG Postdoc Invited Seminar Series
 
 <img style="margin: 10px; float: left" src="/img/cornell.gif" width="150">
 
@@ -55,7 +55,7 @@ Our first two visits in 2017 were an overwhelming success, with Dr. Harmit Malik
 <img style="margin: 10px; float: right" src="img/abbyDernburg.png" width="400">
 <br clear="all">
 
-# Cornell University Postdoc advisory council
+## Cornell University Postdoc advisory council
 
 <img style="margin: 10px; float: left" src="/img/cornell.gif" width="150">
 
