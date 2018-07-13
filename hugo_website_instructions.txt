@@ -18,3 +18,16 @@ hugo server
 
 # To add a publication:
 hugo new publication/my-paper-name.md
+
+
+
+#### To deploy an update:
+Ensure hugo is not running
+
+# Delete the public directory if it exists 
+rm -r public/
+
+# Add .github.io repo into a submodule in a folder named public:
+git submodule add -f -b master https://github.com/erdavenport/erdavenport.github.io.git public
+
+
