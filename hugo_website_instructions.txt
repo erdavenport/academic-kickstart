@@ -22,9 +22,7 @@ hugo new publication/my-paper-name.md
 
 
 #### To deploy an update:
-https://sourcethemes.com/academic/docs/deployment/
-
-# Ensure hugo is not running
+Ensure hugo is not running
 
 # Delete the public directory if it exists 
 rm -r public/
@@ -32,13 +30,11 @@ rm -r public/
 # Add .github.io repo into a submodule in a folder named public:
 git submodule add -f -b master https://github.com/erdavenport/erdavenport.github.io.git public
 
-# Ensure everything is added and committed, push
-git push -u origin master
-
-# Regenerate the website's HTML code by running hugo and uploading the public submodule to GitHub:
+# Regenerate HTML:
 hugo
 cd public
 git add .
 git commit -m "Build website"
 git push origin master
 cd ..
+

@@ -1,5 +1,5 @@
 +++
-title = "Integrated analysis of population genomics, transcriptomics and virulence provides novel insights into _Streptococcus pyogenes_ pathogenesis"
+title = "Integrated analysis of population genomics, transcriptomics and virulence provides novel insights into Streptococcus pyogenes pathogenesis"
 date = 2019-02-18T14:06:25+01:00
 draft = false
 
