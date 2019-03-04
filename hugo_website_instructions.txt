@@ -30,6 +30,8 @@ rm -r public/
 # Add .github.io repo into a submodule in a folder named public:
 git submodule add -f -b master https://github.com/erdavenport/erdavenport.github.io.git public
 
+# Add and commit changes:
+
 # Regenerate HTML:
 hugo
 cd public
